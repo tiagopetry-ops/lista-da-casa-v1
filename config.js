@@ -5,7 +5,7 @@
 window.APP_CONFIG = {
   SUPABASE_URL: "https://gfxtexrkcckjupsvuxkw.supabase.co/rest/v1/",
   SUPABASE_ANON_KEY: "sb_secret_EZryS
-••••••••••••••••",
+t10820628Y&#",
   HOUSE_CODE_SUGGESTION: "CASA PETRY",
   SYNC_INTERVAL_MS: 5000
 };
