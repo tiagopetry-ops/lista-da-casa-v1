@@ -4,8 +4,7 @@
 // 3) Cole abaixo. NÃO use a service_role key no navegador.
 window.APP_CONFIG = {
   SUPABASE_URL: "https://gfxtexrkcckjupsvuxkw.supabase.co/rest/v1/",
-  SUPABASE_ANON_KEY: "sb_secret_EZryS
-t10820628Y&#",
+  SUPABASE_ANON_KEY: "sb_publishable_BUjdFjniAzUdRnM0mgOmvg_nVh50brp",
   HOUSE_CODE_SUGGESTION: "CASA PETRY",
   SYNC_INTERVAL_MS: 5000
 };
